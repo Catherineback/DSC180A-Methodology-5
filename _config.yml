@@ -1,6 +1,4 @@
-title: DSC180A Methodology 5
-author: Catherine Back
-email: cback@ucsd.edu
-description: A barebones site for Methodology Assignment 5
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
