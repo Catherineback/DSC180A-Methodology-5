@@ -1,7 +1,7 @@
-*Name*: Catherine Back
-*UCSD Email*: cback@ucsd.edu
-*Section*: A10
-*Mentor*: Emily Raymond
+- *Name*: Catherine Back
+- *UCSD Email*: cback@ucsd.edu
+- *Section*: A10
+- *Mentor*: Emily Raymond
 
 # Quarter 2 Project Brainstorming
 **What is the most interesting topic covered in your domain this quarter?**
